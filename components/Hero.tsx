@@ -13,8 +13,8 @@ const Hero = () => {
             Front-End React Developer
           </h1>
           <p className="tracking-wider font-bold sm:text-[20px] text-[18px] ss:leading-[30px] ss:text-left text-center mt-5 dark:text-slate-200 text-slate-800 leading-[25px]  ">
-            Hi, I'm Khin Su Wai.A self-taught Front-end React Developer based in
-            Yangon,Myanmar.
+            Hi, I&apos;m Khin Su Wai.A self-taught Front-end React Developer
+            based in Yangon,Myanmar.
           </p>
         </div>
         <div className="relative z-10 mt-12">

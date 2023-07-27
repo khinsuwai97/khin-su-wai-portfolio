@@ -9,8 +9,8 @@ const Projects = () => {
           My Projects
         </h2>
         <p className="paragraph text-center mb-6 sm:mb-10">
-          Here are a few past projects I've worked on. Want to see more? Please
-          visit my{' '}
+          Here are a few past projects I&apos;ve worked on. Want to see more?
+          Please visit my{' '}
           <a
             href="https://github.com/khinsuwai97"
             target="_blank"
