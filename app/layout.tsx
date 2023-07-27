@@ -11,7 +11,7 @@ const euro = localFont({
 });
 
 export const metadata: Metadata = {
-  title: 'My Portfolio',
+  title: 'Khin Su Portfolio',
   description: 'Detail of my porfolio and projects',
   icons: {
     icon: '/favicon.ico',
