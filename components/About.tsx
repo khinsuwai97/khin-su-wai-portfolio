@@ -23,7 +23,7 @@ const About = () => {
                 Developer at XENOptics Co.,LTD, THAILAND.
               </p>
 
-              <ButtonMobile text="Resume" />
+              <ButtonMobile text="Download Resume" />
             </div>
             <Qualification />
           </div>
