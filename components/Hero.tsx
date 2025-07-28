@@ -1,8 +1,8 @@
-"use client";
-import Image from "next/image";
-import { Link } from "react-scroll";
-import { MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
-import KhinSu from "../public/images/KhinSu.png";
+'use client';
+import Image from 'next/image';
+import { Link } from 'react-scroll';
+import { MdOutlineKeyboardDoubleArrowDown } from 'react-icons/md';
+import KhinSu from '../public/images/KhinSu.png';
 // w-full flex flex-col justify-center items-center
 const Hero = () => {
   return (
@@ -12,9 +12,9 @@ const Hero = () => {
           <h1 className=" text-blueColor tracking-wide font-bold sm:text-[52px] ss:text-[44px] text-[34px] ss:leading-[80px] text-center  leading-[40px] ">
             Front-End React Developer
           </h1>
-          <p className="tracking-wider font-bold sm:text-[20px] text-[18px] ss:leading-[30px] ss:text-left text-center mt-5 dark:text-slate-200 text-slate-800 leading-[25px]  ">
-            Hi, I&apos;m Khin Su Wai.A self-taught Front-end React Developer
-            based in Chiang Mai,Thailand.
+          <p className="tracking-wider font-bold sm:text-[20px] text-[18px] ss:leading-[30px] text-center mt-5 dark:text-slate-200 text-slate-800 leading-[25px]">
+            Hi, I&apos;m Khin Su Wai. A self-taught Front-end React Developer
+            based in Chiang Mai, Thailand.
           </p>
         </div>
         <div className="relative z-10 mt-12">
